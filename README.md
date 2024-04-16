@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Panwar</h1>
-<h3 align="center">A passionate Analyst from India</h3>
+<h3 align="center">Data Software Enegineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhvikas007&label=Profile%20views&color=0e75b6&style=flat" alt="singhvikas007" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Learning Projects**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **open projects**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **It**
 
-- 📫 How to reach me **Vikas9999075429**
+- 📫 How to reach me **07vikaspanwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
